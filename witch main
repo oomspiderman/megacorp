@@ -1,0 +1,32 @@
+[33m841d1aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mbanned[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33m841d1aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mbanned[m[33m)[m HEAD@{1}: checkout: moving from banned to main
+[33m841d1aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mbanned[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/banned
+[33m841d1aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mbanned[m[33m)[m HEAD@{3}: rebase (start): checkout main
+[33md790b48[m HEAD@{4}: checkout: moving from main to banned
+[33m841d1aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mbanned[m[33m)[m HEAD@{5}: commit: J: new banned file added to main
+[33m0f51cb4[m HEAD@{6}: checkout: moving from banned to main
+[33md790b48[m HEAD@{7}: commit: I: new banned file added
+[33m0f51cb4[m HEAD@{8}: checkout: moving from main to banned
+[33m0f51cb4[m HEAD@{9}: commit (merge): H: merged the mess
+[33m5c46f7b[m HEAD@{10}: commit: G: changes to the main 2 files
+[33m60dc369[m HEAD@{11}: checkout: moving from delete_records to main
+[33mfde8e1a[m HEAD@{12}: commit: F: delete 2 lines in 2 files
+[33m60dc369[m HEAD@{13}: checkout: moving from main to delete_records
+[33m60dc369[m HEAD@{14}: merge add_customers: Fast-forward
+[33mff66177[m HEAD@{15}: checkout: moving from add_customers to main
+[33m60dc369[m HEAD@{16}: commit (merge): E: fine, Greg can have this one
+[33m67c7172[m HEAD@{17}: reset: moving to 67c7172
+[33m32b27d3[m HEAD@{18}: commit (merge): E: resolve conflict with stupid Greg's customer
+[33m67c7172[m HEAD@{19}: checkout: moving from main to add_customers
+[33mff66177[m HEAD@{20}: commit: D: add jayson to customers
+[33m8911adf[m HEAD@{21}: checkout: moving from add_customers to main
+[33m67c7172[m HEAD@{22}: commit: C: update customers and partners
+[33m8911adf[m HEAD@{23}: checkout: moving from main to add_customers
+[33m8911adf[m HEAD@{24}: commit: B: recovery
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{25}: checkout: moving from slander to main
+[33m534ee40[m HEAD@{26}: commit: B: slander
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{27}: checkout: moving from main to slander
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{28}: checkout: moving from add_contrib to main
+[33md5f6907[m[33m ([m[1;31morigin/add_contrib[m[33m)[m HEAD@{29}: pull origin add_contrib: Fast-forward
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{30}: checkout: moving from main to add_contrib
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{31}: clone: from https://github.com/oomspiderman/megacorp.git
